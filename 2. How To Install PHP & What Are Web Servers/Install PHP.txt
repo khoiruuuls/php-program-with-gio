@@ -1,0 +1,27 @@
+Install PHP
+
+PHP installed in OS 
+
+- Manual Installation 
+- Manual Database Installation 
+- Manual Configuration 
+
+XAMPP / MAMP / WAMP
+
+- All in One Solution 
+- Contains Web Server
+- Contains Databases 
+- Precofigured
+
+Virtual Machines / Docker 
+- Better alternative ( covered in separate video )
+
+Soo, we are going to using XAMPP because of 
+
+- No multiple PHP versions
+- No multiple MySQL versions
+- No for production
+- Difficult to maintainn multiple project
+- " Work on my machine "
+
+download at https://www.apachefriends.org/download.html

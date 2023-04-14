@@ -1,0 +1,46 @@
+So, What is PHP ? 
+
+PHP is stand for Hypertext Preprocessor, which is an open source scripting language that is mainly used for web development.
+
+Scripting languages are also programming languages the main difference between the scripting and programming languages lies within their execution while programming languages need to be compile into machine language the script and language need to be interpreted for example java, c or c++ are programming languages that need to be compiled in order  to run. where javascript and php need an interpreter unlike javascript which runs on the client within th browser, php requires a server to run. this is a very simple presentation of how php runs.
+
+Client or the browser makes request to web server which the interprets and processes php it can also do other things there like connecting to the databases or third party APIs and so on and finally it sends the response back. 
+
+
+
+Basics PHP 
+
+PHP installation and setup
+Syntax and operators
+Variable and data types 
+Control structures and functions 
+Type casting and error handling 
+php.ini / web server config 
+Working with arrays 
+Working with dates 
+and more . . .
+
+Intermediate PHP
+
+Classes and methods
+Object Oriented PHP
+Code style and PSR
+Namespaces and autoloading
+Dependency Management 
+Super globals ($_*)
+Cookies and Sessions 
+Databases
+and more . . .
+
+Advanced PHP 
+
+Testing, phpUnit, TDD, BDD
+Intro to MVC and Routing 
+Dependency Injection Container
+Caching and Security
+Framework
+PHP 8 
+Hosting and deployment
+Best practices
+and more . . .
+
